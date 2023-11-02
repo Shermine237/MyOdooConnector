@@ -11,7 +11,7 @@
 	
 	$odoo_url = "https://siaptest.odoo.com";
 	$odoo_db = "siaptest";
-	$odoo_username = "charlie.yossa@siappharma.com";
+	$odoo_username = "charlie.yossa@sample.com";
 	$odoo_password = "1e67784626d33e72c9dbe8ea48e221d56313ee32";
 	
 	// woocommerce data
@@ -19,13 +19,13 @@
 	//use Automattic\WooCommerce\Client;
 	//use Automattic\WooCommerce\HttpClient\HttpClientException;
 	
-	$woo_url = 'https://siappharma.info';
+	$woo_url = 'https://sample.info';
 	$woo_consumer_key = 'ck_96734546235a0be1fe0bde48af5bbf128367e8ba';
 	$woo_consumer_secret = 'cs_f796c3159489387e975a1b8fff0fce8827b3d8d6';
 	
 	// server data
 	$connector_location = $_SERVER['DOCUMENT_ROOT'].'/MyOdooConnector';
-	$connector_link ='https://siappharma.info/MyOdooConnector';
+	$connector_link ='https://sample.info/MyOdooConnector';
 
 	//--------------------------------------------------------------------------
 	
